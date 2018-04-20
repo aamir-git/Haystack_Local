@@ -1,0 +1,10 @@
+1.DownLoad the repository
+2.open build.gradle add httpPort:"port number" in "gretty {}" section
+3.add proxy settings in gradle.wrapper.properties
+4.run command "gradle buildProduct"
+5.change the name of haystack-snapshot.war to haystack-java.war
+6.try building again
+7.Copy the contents of build/output/ into conatiner directory
+8.goto container directory write a Dockerfile and build the image
+9.Run the image
+10.Push the image to the docker hub

@@ -1,0 +1,6 @@
+org.projecthaystack
+org.projecthaystack.auth
+org.projecthaystack.client
+org.projecthaystack.io
+org.projecthaystack.server
+org.projecthaystack.util

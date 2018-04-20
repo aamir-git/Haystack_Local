@@ -1,0 +1,20 @@
+# ignore files
+
+# globs in any directory
+syntax: glob
+
+Thumbs.db
+temp/
+doc/
+staging/
+haystack.jar
+
+# IDEA
+.idea/
+out/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
